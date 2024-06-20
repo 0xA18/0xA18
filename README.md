@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @0xA18
-- 👀 I’m interested in c++ coding, but also design.
-- 🌱 I’m currently learning ziglang.
-- 💞️ I’m looking to collaborate on any interesting project :).
-- 📫 How to reach me: Dm me on discord! (@a1811)
+# Alistair M.
+#### Also known as Alistair18 or a18
+I know c++, c# and the web stuff.
 
 <!---
 0xA18/0xA18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
