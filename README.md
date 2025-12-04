@@ -1,5 +1,5 @@
-# Alistair M.
-#### Also known as Alistair18 or a18
+# Ali. M.
+#### Also known as a18
 I know c++, c# and the web stuff.
 
 <!---
